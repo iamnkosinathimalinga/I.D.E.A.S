@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "": "checkbox",
+    "Task": "checkbox",
+    "Task Complete": "checkbox",
+    "duration": "datetime"
+  }
+}
