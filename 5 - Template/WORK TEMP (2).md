@@ -1,0 +1,6 @@
+DATE: {{DATE}}
+TIME: {{TIME}}
+STATE:
+TAGS: 
+# NOTE
+
