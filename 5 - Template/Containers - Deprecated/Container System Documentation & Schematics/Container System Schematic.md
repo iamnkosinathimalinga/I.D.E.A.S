@@ -33,7 +33,7 @@ Work/Progress
 Work/Misc
 
 ---
-Refactoring: 
+Refactor: 
 
 Refactor/Task
 Refactor/To-Do
@@ -41,7 +41,7 @@ Refactor/BookContainer
 Refactor/Code
 ---
 
-Learning: 
+Learn: 
 
 Learn/Task
 Learn/Work
@@ -50,7 +50,7 @@ Learn/Code
 
 ---
 
-Books:
+Book:
 
 Book/Task
 Book/Work
@@ -71,4 +71,4 @@ Task/Book
 
 {{DOCUMENTATION}}
 
-[[5 - Template/Containers/Container System Documentation & Schematics/Documentation|Documentation]]
+[[5 - Template/Containers - Deprecated/Container System Documentation & Schematics/Documentation|Documentation]]

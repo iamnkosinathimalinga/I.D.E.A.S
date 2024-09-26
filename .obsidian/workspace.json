@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f42ffc6cb90cf040",
+        "id": "825ba3d1e5a8f84d",
         "type": "tabs",
         "children": [
           {
-            "id": "ae75b96ee6197c5a",
+            "id": "de6e17abcdaff238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/_TEMP.CONTAINER.md",
+                "file": "2 - Source Material/Daily Progress/Progress Update 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f3e7c00c0982f10c",
+            "id": "cebb3ddee476024a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/_REFACTOR.md",
+                "file": "5 - Template/Containers - Deprecated/{{_TaskContainer}}.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "d6a65383f46e8129",
+            "id": "a40dd28f1bb19e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/_PERSONAL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1be3cd91f6f7212a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Template/JavaScript/myfunc.js.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "594c002d7f8bedd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task 2.md",
+                "file": "KeyMap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Template/JavaScript/myfunc.js.md",
+                "file": "5 - Template/Containers - Deprecated/{{_TaskContainer}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Template/JavaScript/myfunc.js.md",
+                "file": "5 - Template/Containers - Deprecated/{{_TaskContainer}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Template/JavaScript/myfunc.js.md"
+                "file": "5 - Template/Containers - Deprecated/{{_TaskContainer}}.md"
               }
             }
           },
@@ -215,14 +189,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1be3cd91f6f7212a",
+  "active": "0335491a313fc9fc",
   "lastOpenFiles": [
-    "5 - Template/JavaScript/taskTemplate.js.md",
-    "5 - Template/JavaScript/myfunc.js.md",
-    "5 - Template/Templater - Containers/_task.obj.md",
-    "task 2.md",
+    "Obsidian Board.md",
+    "1 - Rough Notes/Task - To-Do - KeyMapVSIcons.md",
+    "KeyMap.md",
+    "2 - Source Material/Daily Progress/Progress Update 4.md",
+    "Done/Learning - Syntax Related.md",
+    "Done/Block-11-Assignment.md",
     "Task - 1.md",
-    "5 - Template/Containers/Task Container Temp.md",
+    "task 2.md",
+    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics/Container System Schematic.md",
+    "5 - Template/Containers - Deprecated/Task Container Temp.md",
+    "1 - Rough Notes/2024-09-26.md",
+    "5 - Template/JavaScript/myfunc.js.md",
+    "5 - Template/JavaScript/taskTemplate.js.md",
+    "5 - Template/Templater - Containers/_task.obj.md",
     "Tas.md",
     "5 - Template/GENERIC NOTE TEMP.md",
     "5 - Template/FULL IDEAS TEMP.md",
@@ -238,19 +220,11 @@
     "Containers/_PERSONAL.md",
     "5 - Template/POEMS TEMP.md",
     "5 - Template/MONEY MANAGER TEMP.md",
-    "5 - Template/MUSIC LYRIC TEMP.md",
-    "3 - Tags/Book.md",
-    "Containers/_WORK.md",
-    "Containers/_TEMP.CONTAINER.md",
-    "Containers/_TASK.md",
-    "Containers/_REFACTOR.md",
-    "Containers/_LEARN.md",
-    "5 - Template/Containers/_LearnContainer.md",
     "Containers",
     "5 - Template/Templater - Containers",
-    "5 - Template/Containers/Container Elements",
-    "5 - Template/Containers",
-    "5 - Template/Containers/Container System Documentation & Schematics",
+    "5 - Template/Containers - Deprecated/Container Elements",
+    "5 - Template/Containers - Deprecated",
+    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics",
     "8 - Containers/Container System/Container System",
     "Jpeg and other media/Net-Icons.pdf",
     "Jpeg and other media/UI-VS-Community.png",

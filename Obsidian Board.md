@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## New
 
+- [ ] Monthly Budget
 
 
 ## Active
@@ -18,6 +19,8 @@ kanban-plugin: board
 
 ## Closed
 
+- [ ] Dell AC Adapter Issue
+- [ ] Block-11-Assignment
 
 
 
