@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de6e17abcdaff238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keys/KeyMap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a40dd28f1bb19e5e",
             "type": "leaf",
             "state": {
@@ -175,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de6e17abcdaff238",
+  "active": "3b287bb0382a02d8",
   "lastOpenFiles": [
     "2 - Source Material/Tools of Titans - T. Ferris (2).md",
     "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
