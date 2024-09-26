@@ -1,7 +1,7 @@
 Date: 2024-07-10
 Time: 11:16
 State: #child 
-Tags: [[Book]]
+Tags: [[3 - Tags/Book]]
 # notes
 
 — P.E.D simply stands for " performance enhancing detail " which can be added to a routine, exercise, or any act, be it mental or metaphysical. (i.e, a book, calming exercises, a mantra...etc)  

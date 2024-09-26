@@ -1,5 +1,4 @@
-# {{date}}
-# {{time}} 
+{{date}} | {{time}} 
 
-STATE:
+STATE: 
 TAGS: [[Dream Journal]]

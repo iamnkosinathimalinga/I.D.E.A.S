@@ -1,7 +1,7 @@
 DATE: 2024-07-16
 TIME: 10:40
 STATE: #baby 
-TAGS: [[C]] [[Software-Development]] [[Work 1]] [[TDD]] [[Learning]]
+TAGS: [[C]] [[Software-Development]] [[Work 1]] [[TDD]] [[3 - Tags/Learning]]
 # NOTE 
 
 ###### Foundational Knowledge: 

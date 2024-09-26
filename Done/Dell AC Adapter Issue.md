@@ -1,6 +1,6 @@
 DATE: 2024-08-03
 TIME: 22:43
-STATE: #adult 
+STATE: #adult  #Closed
 TAGS: [[Need-To-Do]] [[To-Do-List]]
 
 # NOTE

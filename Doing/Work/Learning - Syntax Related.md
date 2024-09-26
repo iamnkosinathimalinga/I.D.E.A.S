@@ -1,7 +1,7 @@
 DATE: 2024-07-16
 TIME: 10:21
 STATE: #baby 
-TAGS: [[C]] [[Software-Development]] [[Work 1]] [[Learning]]
+TAGS: [[C]] [[Software-Development]] [[Work 1]] [[3 - Tags/Learning]]
 # NOTE
 
 ###### SYNTAX FOR A GET ENDPOINT: 

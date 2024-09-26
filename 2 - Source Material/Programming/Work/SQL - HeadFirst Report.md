@@ -1,7 +1,7 @@
 DATE: 2024-07-15
 TIME: 21:44
 STATE: #baby 
-TAGS: [[Work 1]] [[Software-Development]] [[Book]] [[SQL]]
+TAGS: [[Work 1]] [[Software-Development]] [[3 - Tags/Book]] [[SQL]]
 # NOTE
 
 SQL - BLOCK 14 

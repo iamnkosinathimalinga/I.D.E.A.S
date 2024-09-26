@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "8773aa8202ba5fc3",
+        "id": "f42ffc6cb90cf040",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb7a20a820321d3",
+            "id": "ae75b96ee6197c5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "Containers/_TEMP.CONTAINER.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3e7c00c0982f10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Containers/_REFACTOR.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6a65383f46e8129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Containers/_PERSONAL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1be3cd91f6f7212a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Template/JavaScript/myfunc.js.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594c002d7f8bedd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "5 - Template/JavaScript/myfunc.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "5 - Template/JavaScript/myfunc.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Nala.md"
+                "file": "5 - Template/JavaScript/myfunc.js.md"
               }
             }
           },
@@ -162,45 +215,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb7a20a820321d3",
+  "active": "1be3cd91f6f7212a",
   "lastOpenFiles": [
-    "3 - Tags/Nala.md",
-    "3 - Tags/Money-Management.md",
-    "2 - Source Material/Nala.md",
-    "1 - Rough Notes/2024-08-06.md",
-    "5 - Template/Containers/_BookContainer.md",
-    "1 - Rough Notes/2024-08-16.md",
-    "1 - Rough Notes/2024-09-25.md",
-    "1 - Rough Notes/2024-09-24.md",
-    "1 - Rough Notes/2024-08-17.md",
-    "7 - Learning/{{_TaskContainer}}.md",
-    "ntohu.md",
-    "{{nameOfSession}}.md",
-    "timeKeeperObject.md",
-    "Untitled.md",
+    "5 - Template/JavaScript/taskTemplate.js.md",
+    "5 - Template/JavaScript/myfunc.js.md",
+    "5 - Template/Templater - Containers/_task.obj.md",
+    "task 2.md",
+    "Task - 1.md",
+    "5 - Template/Containers/Task Container Temp.md",
+    "Tas.md",
+    "5 - Template/GENERIC NOTE TEMP.md",
+    "5 - Template/FULL IDEAS TEMP.md",
+    "5 - Template/DREAM JOURNAL ENTRY.md",
     "5 - Template/Focus Session.md",
+    "5 - Template/ContainerElement.md",
     "5 - Template/duration.md",
-    "5 - Template/Containers/Container Elements/_To-Do.md",
-    "5 - Template/Containers/_PersonalContainer.md",
-    "Miscellaneous/saonhtueh.md",
-    "5 - Template/Templates For Containers/Task Container Temp.md",
-    "Miscellaneous/sahuetns.md",
-    "Miscellaneous/Temp some rando.md",
-    "5 - Template/Templates For Containers",
-    "5 - Template/Containers/{{_WorkContainer}}.md",
-    "5 - Template/BOOK REPORT TEMP.md",
-    "5 - Template/Containers/{{ContainerType}}.md",
-    "5 - Template/Containers/_RefactorContainer.md",
+    "Jpeg and other media/taskTemplater.js",
+    "5 - Template/JavaScript/taskTemplater.js",
+    "Containers/_BOOK.md",
+    "5 - Template/JavaScript",
+    "3 - Tags/Task.md",
+    "Containers/_PERSONAL.md",
+    "5 - Template/POEMS TEMP.md",
+    "5 - Template/MONEY MANAGER TEMP.md",
+    "5 - Template/MUSIC LYRIC TEMP.md",
+    "3 - Tags/Book.md",
+    "Containers/_WORK.md",
+    "Containers/_TEMP.CONTAINER.md",
+    "Containers/_TASK.md",
+    "Containers/_REFACTOR.md",
+    "Containers/_LEARN.md",
+    "5 - Template/Containers/_LearnContainer.md",
+    "Containers",
+    "5 - Template/Templater - Containers",
     "5 - Template/Containers/Container Elements",
     "5 - Template/Containers",
     "5 - Template/Containers/Container System Documentation & Schematics",
     "8 - Containers/Container System/Container System",
     "Jpeg and other media/Net-Icons.pdf",
     "Jpeg and other media/UI-VS-Community.png",
-    "Done",
-    "7 - Learning/Work/Code Snippets",
-    "7 - Learning/Work",
-    "7 - Learning",
     "Jpeg and other media/Screenshot 2024-07-15 224407.png",
     "Jpeg and other media/Pasted image 20240715223039.png",
     "Jpeg and other media/Pasted image 20240715120114.png",
