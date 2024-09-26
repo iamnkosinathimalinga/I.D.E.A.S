@@ -1,7 +1,7 @@
 Date: 2024-07-10
 Time: 11:48
 State: #baby
-Tags: [[Nala]]
+Tags: [[3 - Tags/Nala]]
 # NOTE
 
 < Excerpt >

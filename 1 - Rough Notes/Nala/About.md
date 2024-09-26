@@ -2,7 +2,7 @@
 Date: 2024-07-10
 Time: 11:51
 State: #child 
-Tags: [[Nala]]
+Tags: [[3 - Tags/Nala]]
 
 # note
 

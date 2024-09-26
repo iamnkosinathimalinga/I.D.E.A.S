@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Template/Containers/_BookContainer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3fe57934037651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
+                "file": "2 - Source Material/Nala.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
+                "file": "2 - Source Material/Nala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
+                "file": "2 - Source Material/Nala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/2024-09-25.md"
+                "file": "2 - Source Material/Nala.md"
               }
             }
           },
@@ -176,13 +162,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e3fe57934037651",
+  "active": "3eb7a20a820321d3",
   "lastOpenFiles": [
-    "1 - Rough Notes/2024-09-24.md",
-    "1 - Rough Notes/2024-09-25.md",
+    "3 - Tags/Nala.md",
+    "3 - Tags/Money-Management.md",
+    "2 - Source Material/Nala.md",
+    "1 - Rough Notes/2024-08-06.md",
     "5 - Template/Containers/_BookContainer.md",
-    "7 - Learning/{{_TaskContainer}}.md",
+    "1 - Rough Notes/2024-08-16.md",
+    "1 - Rough Notes/2024-09-25.md",
+    "1 - Rough Notes/2024-09-24.md",
     "1 - Rough Notes/2024-08-17.md",
+    "7 - Learning/{{_TaskContainer}}.md",
     "ntohu.md",
     "{{nameOfSession}}.md",
     "timeKeeperObject.md",
@@ -190,8 +181,6 @@
     "5 - Template/Focus Session.md",
     "5 - Template/duration.md",
     "5 - Template/Containers/Container Elements/_To-Do.md",
-    "1 - Rough Notes/2024-08-16.md",
-    "1 - Rough Notes/2024-08-06.md",
     "5 - Template/Containers/_PersonalContainer.md",
     "Miscellaneous/saonhtueh.md",
     "5 - Template/Templates For Containers/Task Container Temp.md",
@@ -202,9 +191,6 @@
     "5 - Template/BOOK REPORT TEMP.md",
     "5 - Template/Containers/{{ContainerType}}.md",
     "5 - Template/Containers/_RefactorContainer.md",
-    "5 - Template/Containers/_LearnContainer.md",
-    "Doing/Dell AC Adapter Issue.md",
-    "7 - Learning/Work/ASP.NET Core.md",
     "5 - Template/Containers/Container Elements",
     "5 - Template/Containers",
     "5 - Template/Containers/Container System Documentation & Schematics",
