@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KeyMap.md",
+                "file": "1 - Rough Notes/2024-09-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keys/KeyMap.md",
+                "file": "1 - Rough Notes/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keys/KeyMap.md",
+                "file": "1 - Rough Notes/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keys/KeyMap.md"
+                "file": "1 - Rough Notes/2024-09-26.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b287bb0382a02d8",
+  "active": "a40dd28f1bb19e5e",
   "lastOpenFiles": [
+    "KeyMap.md",
     "2 - Source Material/Tools of Titans - T. Ferris (2).md",
     "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
     "2 - Source Material/Programming/Work/SQL - HeadFirst Report (2).md",
@@ -189,7 +190,6 @@
     "1 - Rough Notes/Dream Journal Entries/Dream Journal 5 (2).md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal 4 (2).md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal 3 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 2 (2).md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
