@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Sparkling Night",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "accentColor": "#8030ab",
+  "interfaceFontFamily": "Bahnschrift",
+  "monospaceFontFamily": "Bahnschrift",
+  "nativeMenus": true,
+  "textFontFamily": "Bahnschrift"
+}

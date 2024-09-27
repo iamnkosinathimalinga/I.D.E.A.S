@@ -4,16 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "825ba3d1e5a8f84d",
+        "id": "9c6e5da8c14d9f59",
         "type": "tabs",
+        "dimension": 48.5645933014354,
         "children": [
           {
-            "id": "a40dd28f1bb19e5e",
+            "id": "cbe22c6ed15e6f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "1 - Rough Notes/2024-08-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb0787444b09c77d",
+        "type": "tabs",
+        "dimension": 51.4354066985646,
+        "children": [
+          {
+            "id": "25fa1784d6aecab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Containers/Container Elements/_To-Do.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "905334baeeda8bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Template/Focus Session.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 470
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "1 - Rough Notes/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Nala.md",
+                "file": "1 - Rough Notes/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,89 +160,74 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Nala.md"
+                "file": "1 - Rough Notes/2024-08-06.md"
               }
             }
-          },
-          {
-            "id": "3b287bb0382a02d8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 321,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
-      "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a40dd28f1bb19e5e",
+  "active": "cbe22c6ed15e6f88",
   "lastOpenFiles": [
-    "1 - Rough Notes/2024-09-26.md",
-    "KeyMap.md",
-    "2 - Source Material/Tools of Titans - T. Ferris (2).md",
-    "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
-    "2 - Source Material/Programming/Work/SQL - HeadFirst Report (2).md",
-    "2 - Source Material/Programming/Work/EFCore notes with Trevoir Williams (2).md",
-    "2 - Source Material/Programming/Work/CSharp - Target (2).md",
-    "2 - Source Material/Philosophy/The Stoics (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 4 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 3 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 2 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update (2).md",
-    "1 - Rough Notes/My Quotes/Random Quotes (2).md",
-    "1 - Rough Notes/My Quotes/Daily Quota (2).md",
-    "1 - Rough Notes/Psychoanalytical Writing/Y. Van Loggenberg (2).md",
-    "1 - Rough Notes/Health/Breathing Exercises (2).md",
-    "1 - Rough Notes/Nala/Out of Context Conversations (2).md",
-    "1 - Rough Notes/Nala/About (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Quotes From my journals (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry On AMI (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 9 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 8 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 7 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 6 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 5 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 4 (2).md",
-    "To-Do/People To Look Up",
-    "To-Do/Work",
-    "To-Do",
-    "Miscellaneous",
-    "Keys",
+    "Containers/Container Elements/_To-Do.md",
+    "1 - Rough Notes/2024-08-06.md",
+    "Containers/_PersonalContainer.md",
+    "Containers/{{_TaskContainer}}.md",
+    "Miscellaneous/saonhtueh.md",
+    "5 - Template/Focus Session.md",
+    "5 - Template/Templates For Containers/Task Container Temp.md",
+    "Containers/_BookContainer.md",
+    "Miscellaneous/sahuetns.md",
+    "Miscellaneous/Temp some rando.md",
+    "5 - Template/Templates For Containers",
+    "Containers/{{_WorkContainer}}.md",
+    "5 - Template/duration.md",
+    "5 - Template/BOOK REPORT TEMP.md",
+    "Containers/{{ContainerType}}.md",
+    "Containers/_RefactorContainer.md",
+    "Containers/_LearnContainer.md",
+    "Doing/Dell AC Adapter Issue.md",
+    "7 - Learning/Work/ASP.NET Core.md",
+    "2 - Source Material/Programming/Work/Implementing the GameEntity.md",
+    "3 - Tags/Work 1.md",
+    "Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
+    "Miscellaneous/POWER RENAME.md",
+    "Containers/Container System Documentation & Schematics/Container System Schematic.md",
+    "Containers/Container Elements/_Task.md",
+    "Containers/Container Elements/_Misc.md",
+    "Containers/Container Elements/_Excerpt.md",
+    "Containers/Container Elements",
+    "Containers",
+    "Containers/Container System Documentation & Schematics",
+    "8 - Containers/Container System/Container System",
+    "Jpeg and other media/Net-Icons.pdf",
     "Jpeg and other media/UI-VS-Community.png",
+    "Done",
+    "7 - Learning/Work/Code Snippets",
+    "7 - Learning/Work",
+    "7 - Learning",
     "Jpeg and other media/Screenshot 2024-07-15 224407.png",
     "Jpeg and other media/Pasted image 20240715223039.png",
+    "Jpeg and other media/Pasted image 20240715120114.png",
     "Jpeg and other media/Pasted image 20240715120756.png",
     "Jpeg and other media/Pasted image 20240715120302.png",
-    "Jpeg and other media/Pasted image 20240715120114.png",
-    "Jpeg and other media/Pasted image 20240710111032.png",
-    "Jpeg and other media/Net-Icons.pdf",
     "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
-    "Containers/Container System Documentation & Schematics",
-    "Containers/Container Elements",
-    "5 - Template/Templates For Containers",
-    "I.D.E.A.S/7 - Learning/Work/Code Snippets",
-    "I.D.E.A.S/Jpeg and other media/UI-VS-Community.png",
-    "I.D.E.A.S/Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg"
+    "Jpeg and other media/Pasted image 20240710111032.png"
   ]
 }
