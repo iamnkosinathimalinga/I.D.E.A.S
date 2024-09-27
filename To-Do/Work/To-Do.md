@@ -7,7 +7,7 @@ TAGS:  [[To-Do-List]]
 
 ### KeyMapVSIcons 
 
-Today I need to map on => ([[KeyMap]]) the VS IDE icons and what they mean, I should have a copy of that somewhere on paper but if I don't then there's google. ^fac043
+Today I need to map on => ([[KeyMap 1]]) the VS IDE icons and what they mean, I should have a copy of that somewhere on paper but if I don't then there's google. ^fac043
 
 #### GameEntiytImplementation on Block-11-Assignmentl
 

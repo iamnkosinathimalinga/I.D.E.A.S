@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗝",
       "LiClipboardCheck",
       "LiCircleOff"
     ],
@@ -37,5 +38,6 @@
   "Obsidian Board.md": {
     "iconName": "LiClipboardCheck",
     "iconColor": "#0ca139"
-  }
+  },
+  "Keys": "🗝"
 }
