@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "825ba3d1e5a8f84d",
+        "id": "b22ff68e6cd409cf",
         "type": "tabs",
         "children": [
           {
-            "id": "a40dd28f1bb19e5e",
+            "id": "e2d0f185ce39ab44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Nala.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Nala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Nala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Source Material/Nala.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +153,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a40dd28f1bb19e5e",
+  "active": "e2d0f185ce39ab44",
   "lastOpenFiles": [
+    "2 - Source Material/Express Piece - 1st Draft.md",
+    "Miscellaneous/saonhtueh.md",
+    "Miscellaneous/sahuetns.md",
+    "1 - Rough Notes/2024-09-27.md",
     "1 - Rough Notes/2024-09-26.md",
     "KeyMap.md",
     "2 - Source Material/Tools of Titans - T. Ferris (2).md",
@@ -186,10 +181,6 @@
     "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry On AMI (2).md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal 9 (2).md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal 8 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 7 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 6 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 5 (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 4 (2).md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
