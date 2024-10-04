@@ -11,12 +11,18 @@
             "id": "5e3fe57934037651",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1 - Rough Notes/2024-10-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Obsidian Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    false,
+                    true,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/2024-10-05.md",
+                "file": "Obsidian Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/2024-10-05.md",
+                "file": "Obsidian Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/2024-10-05.md"
+                "file": "Obsidian Board.md"
               }
             }
           },
@@ -164,8 +170,15 @@
   },
   "active": "5e3fe57934037651",
   "lastOpenFiles": [
-    "Obsidian Board.md",
+    "6 - Full IDEAS/Nala-MEL0DY.md",
+    "2 - Source Material/Johnathan Franzen - Farther Away.md",
+    "2 - Source Material/Tools of Titans - T. Ferris.md",
+    "2 - Source Material/Tools of Titans - T. Ferris (2).md",
+    "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
+    "2 - Source Material/Express Piece - 1st Draft.md",
+    "Jpeg and other media/Pasted image 20241005001657.png",
     "1 - Rough Notes/2024-10-05.md",
+    "Obsidian Board.md",
     "Working on Assignment.md",
     "Untitled.md",
     "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget.md",
@@ -184,12 +197,6 @@
     "Containers/_PERSONAL-MEL0DY.md",
     "Containers/Container Elements/_Assignment.md",
     "Containers/{{_TaskContainer}}.md",
-    "5 - Template/JavaScript/taskTemplate.js.md",
-    "Keys/Cue Card Key Mapper.md",
-    "Keys/KeyMapper.md",
-    "Keys/KeyMap-MEL0DY.md",
-    "Keys/KeyMap 1.md",
-    "Keys/KeyMap.md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",

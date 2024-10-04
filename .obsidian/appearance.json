@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Encore",
+  "cssTheme": "GitHub Theme",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "#8030ab",
   "interfaceFontFamily": "Bahnschrift",
   "monospaceFontFamily": "Bahnschrift",
