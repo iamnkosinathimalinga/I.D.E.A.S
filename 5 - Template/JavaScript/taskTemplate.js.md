@@ -41,8 +41,6 @@ class taskTemplate {
 
 }
 
-  
-
 module.exports = taskTemplate;
 ```
 

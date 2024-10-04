@@ -5,16 +5,6 @@
 State: #child 
 Tags: [[Fiscal Health]] [[Self-Awareness]]
 
-
-| {{column-name}} | {{column-name}} | {{column-name}} | {{column-name}} |
-| --------------- | --------------- | --------------- | --------------- |
-|                 |                 |                 |                 |
-
-
-| {{column-name}} | {{column-name}} | {{column-name}} | {{column-name}} |
-| --------------- | --------------- | --------------- | --------------- |
-|                 |                 |                 |                 |
-
 TEMP Object: 
 
 # Monthly Budget Template

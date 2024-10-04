@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keys/Cue Card Key Mapper.md",
+                "file": "1 - Rough Notes/2024-10-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keys/Cue Card Key Mapper.md",
+                "file": "1 - Rough Notes/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keys/Cue Card Key Mapper.md",
+                "file": "1 - Rough Notes/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keys/Cue Card Key Mapper.md"
+                "file": "1 - Rough Notes/2024-10-05.md"
               }
             }
           },
@@ -164,23 +164,35 @@
   },
   "active": "5e3fe57934037651",
   "lastOpenFiles": [
+    "Obsidian Board.md",
+    "1 - Rough Notes/2024-10-05.md",
+    "Working on Assignment.md",
+    "Untitled.md",
+    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget.md",
+    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget (2).md",
+    "Containers/Container Elements/{{ContainerElementType}}.md",
+    "Containers/Container Elements/_Work.md",
+    "Containers/Container Elements/_To-Do.md",
+    "Containers/Container Elements/_Research.md",
+    "Containers/Container Elements/_Progress.md",
+    "Containers/Container Elements/_Excerpt.md",
+    "Containers/Container Elements/_Book.md",
+    "Containers/Container System Documentation & Schematics/Documentation.md",
+    "Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
+    "Containers/Container System Documentation & Schematics/Container System Schematic.md",
+    "Containers/{{ContainerType}}.md",
+    "Containers/_PERSONAL-MEL0DY.md",
+    "Containers/Container Elements/_Assignment.md",
+    "Containers/{{_TaskContainer}}.md",
+    "5 - Template/JavaScript/taskTemplate.js.md",
+    "Keys/Cue Card Key Mapper.md",
     "Keys/KeyMapper.md",
     "Keys/KeyMap-MEL0DY.md",
     "Keys/KeyMap 1.md",
     "Keys/KeyMap.md",
-    "To-Do/People To Look Up/Authors, Philanthropists, Psychologists.md",
-    "To-Do/Work/To-Do.md",
-    "To-Do/Work/Learning SQL.md",
-    "To-Do/PDF Downloads.md",
-    "Obsidian Board.md",
-    "To-Do/People To Look Up/Macroeconomical & Nature Theory Authors.md",
-    "Done/Monthly Budget.md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
-    "Keys/STICKY NOTES KEY.md",
-    "Keys/Notes System.md",
-    "Keys/Cue Card Key Mapper.md",
     "Keys",
     "Jpeg and other media/taskTemplater.js",
     "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
@@ -192,19 +204,7 @@
     "Jpeg and other media/Pasted image 20240715120114.png",
     "Jpeg and other media/Pasted image 20240710111032.png",
     "Jpeg and other media",
-    "Done/Learning - Syntax Related.md",
-    "Done/Dell AC Adapter Issue.md",
-    "Done/Block-11-Assignment.md",
     "Done",
-    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget (2).md",
-    "Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
-    "Containers/Container System Documentation & Schematics/Documentation.md",
-    "Containers/Container System Documentation & Schematics/Container System Schematic.md",
-    "Containers/Container Elements/{{ContainerElementType}}.md",
-    "Containers/Container Elements/_Work.md",
-    "Containers/Container Elements/_To-Do.md",
-    "Containers/Container Elements/_Task.md",
-    "Containers/Container Elements/_Research.md",
     "Containers/Container System Documentation & Schematics",
     "Containers/Container Elements",
     "Containers"

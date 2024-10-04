@@ -4,16 +4,8 @@
 		Time: 23:56
 State: #child 
 Tags: [[Fiscal Health]] [[Self-Awareness]]
+Task: [[]]
 
-
-| {{column-name}} | {{column-name}} | {{column-name}} | {{column-name}} |
-| --------------- | --------------- | --------------- | --------------- |
-|                 |                 |                 |                 |
-
-
-| {{column-name}} | {{column-name}} | {{column-name}} | {{column-name}} |
-| --------------- | --------------- | --------------- | --------------- |
-|                 |                 |                 |                 |
 
 TEMP Object: 
 
