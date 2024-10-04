@@ -2,7 +2,7 @@
   "globalQuery": "",
   "globalFilter": "",
   "removeGlobalFilter": false,
-  "taskFormat": "tasksPluginEmoji",
+  "taskFormat": "dataview",
   "setCreatedDate": true,
   "setDoneDate": true,
   "setCancelledDate": true,
@@ -13,7 +13,7 @@
   "useFilenameAsScheduledDate": true,
   "filenameAsScheduledDateFormat": "mm dd",
   "filenameAsDateFolders": [],
-  "recurrenceOnNextLine": false,
+  "recurrenceOnNextLine": true,
   "statusSettings": {
     "coreStatuses": [
       {

@@ -4,16 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8773aa8202ba5fc3",
+        "id": "07668b34c6522b1c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e3fe57934037651",
+            "id": "73284837fa39b0bd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "kanban",
               "state": {
-                "file": "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png"
+                "file": "Obsidian Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -46,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#baby",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
+                "file": "Obsidian Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
+                "file": "Obsidian Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png"
+                "file": "Obsidian Board.md"
               }
             }
           },
@@ -140,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +168,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0335491a313fc9fc",
+  "active": "73284837fa39b0bd",
   "lastOpenFiles": [
+    "To-Do/PDF Downloads.md",
+    "Obsidian Board.md",
+    "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
+    "6 - Full IDEAS/Papers/The Objective Subjugation THESIS.md",
+    "Doing/Work/Learning - Syntax Related.md",
+    "1 - Rough Notes/Music Lyrics/Cloud 9 with You.md",
+    "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
     "2 - Source Material/Google Keep/Assets/1862c208de3.a339a4348ba3fdf1.jpg",
     "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png",
     "2 - Source Material/Google Keep/Annotations_.md",
@@ -173,7 +189,6 @@
     "1 - Rough Notes/Uk_cabanga.md",
     "1 - Rough Notes/MDR Theological Basic_.md",
     "2 - Source Material/Google Keep/Macroeconomical Nature Theory.md",
-    "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
     "Google Keep/Love_ Regretfully Blind.md",
     "2 - Source Material/Google Keep/NB.md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry 2.md",
@@ -184,13 +199,8 @@
     "2 - Source Material/Google Keep/Download_.md",
     "1 - Rough Notes/chapters for my book_.md",
     "6 - Full IDEAS/The formula is.md",
-    "2 - Source Material/Google Keep/Stuff I like.md",
-    "2 - Source Material/Google Keep/study of space_.md",
-    "2 - Source Material/Google Keep/Strengths.md",
-    "2 - Source Material/Google Keep/Scoliosis Treatment.md",
     "2 - Source Material/Google Keep/Assets/1893c608767.abf219c752f90d4a.png",
     "2 - Source Material/Google Keep/Assets/188942401d6.9de545763b29478e.png",
-    "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
     "2 - Source Material/Google Keep/Assets",
     "2 - Source Material/Google Keep",
     "Jpeg and other media/Pasted image 20241005001657.png",

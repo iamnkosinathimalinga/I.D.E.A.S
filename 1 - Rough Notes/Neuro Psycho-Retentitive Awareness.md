@@ -1,7 +1,9 @@
 ---
 tags:
   - Keep/Label/IDEAS
+  - AddOn
 ---
+Tags: [[Thesis]]
 
 Thesis: A sort of disillusioned psyche, wherein mind inhibits self-realism inferences.
 
