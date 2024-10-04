@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "❗",
       "🗝",
       "LiClipboardCheck",
       "LiCircleOff"
@@ -39,5 +40,6 @@
     "iconName": "LiClipboardCheck",
     "iconColor": "#0ca139"
   },
-  "Keys": "🗝"
+  "Keys": "🗝",
+  "Google Keep/The formula is.md": "❗"
 }
