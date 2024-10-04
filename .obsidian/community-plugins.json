@@ -7,5 +7,6 @@
   "dbfolder",
   "templater-obsidian",
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin"
 ]

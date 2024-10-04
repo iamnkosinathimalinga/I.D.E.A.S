@@ -1,5 +1,6 @@
 {
   "folder": "1 - Rough Notes",
   "template": "5 - Template/GENERIC NOTE TEMP",
-  "autorun": true
+  "autorun": true,
+  "format": "mm-ddd"
 }

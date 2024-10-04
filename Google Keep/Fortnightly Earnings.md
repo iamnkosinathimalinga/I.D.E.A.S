@@ -1,0 +1,6 @@
+---
+tags:
+  - Keep/Label/WEALTH
+---
+
+INCOME, GAMBLE, PROFIT, INVEST PROFITS, REPEAT.

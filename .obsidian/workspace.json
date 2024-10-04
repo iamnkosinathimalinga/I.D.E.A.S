@@ -11,18 +11,12 @@
             "id": "5e3fe57934037651",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    true,
-                    false
-                  ]
-                }
+                "file": "Google Keep/Neuro Psycho-Retentitive Awareness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 252.5
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Board.md",
+                "file": "Google Keep/Neuro Psycho-Retentitive Awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Board.md",
+                "file": "Google Keep/Neuro Psycho-Retentitive Awareness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Board.md"
+                "file": "Google Keep/Neuro Psycho-Retentitive Awareness.md"
               }
             }
           },
@@ -149,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,33 +164,40 @@
   },
   "active": "5e3fe57934037651",
   "lastOpenFiles": [
-    "6 - Full IDEAS/Nala-MEL0DY.md",
-    "2 - Source Material/Johnathan Franzen - Farther Away.md",
-    "2 - Source Material/Tools of Titans - T. Ferris.md",
-    "2 - Source Material/Tools of Titans - T. Ferris (2).md",
-    "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
-    "2 - Source Material/Express Piece - 1st Draft.md",
-    "Jpeg and other media/Pasted image 20241005001657.png",
-    "1 - Rough Notes/2024-10-05.md",
+    "Google Keep/Money Making.md",
+    "Google Keep/ME - I NEED TO FOCUS ON ME!.md",
     "Obsidian Board.md",
-    "Working on Assignment.md",
-    "Untitled.md",
-    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget.md",
-    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget (2).md",
-    "Containers/Container Elements/{{ContainerElementType}}.md",
-    "Containers/Container Elements/_Work.md",
-    "Containers/Container Elements/_To-Do.md",
-    "Containers/Container Elements/_Research.md",
-    "Containers/Container Elements/_Progress.md",
-    "Containers/Container Elements/_Excerpt.md",
-    "Containers/Container Elements/_Book.md",
-    "Containers/Container System Documentation & Schematics/Documentation.md",
-    "Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
-    "Containers/Container System Documentation & Schematics/Container System Schematic.md",
-    "Containers/{{ContainerType}}.md",
-    "Containers/_PERSONAL-MEL0DY.md",
-    "Containers/Container Elements/_Assignment.md",
-    "Containers/{{_TaskContainer}}.md",
+    "Google Keep/Óooze (Prod. illInstrumentals_Cascade).md",
+    "Google Keep/_  _.md",
+    "Google Keep/Work Ethic_Business Morale.md",
+    "Google Keep/Where_s My Shirt_.md",
+    "Google Keep/What PED_s Titans Have In Common.md",
+    "Google Keep/Websites.md",
+    "Google Keep/W.A Key.md",
+    "Google Keep/Vocab Saved Dictionary.md",
+    "Google Keep/Verbs.md",
+    "Google Keep/Uk_cabanga.md",
+    "Google Keep/Tuesday 28.03.23.md",
+    "Google Keep/Trinkets.md",
+    "Google Keep/Toyota Avanza X_.md",
+    "Google Keep/To-Do.md",
+    "Google Keep/To-Do(1).md",
+    "Google Keep/This is it_.md",
+    "Google Keep/THEA THEO.md",
+    "Google Keep/The Stoic_s.md",
+    "Google Keep/The Psychological Model.md",
+    "Google Keep/The Psychoanalytic Model.md",
+    "Google Keep/The Objective Subjugation Thesis_.md",
+    "Google Keep/The formula is.md",
+    "Google Keep/The Biological Model.md",
+    "Google Keep/Assets/1893c64c499.82b6b35d01547736.png",
+    "Google Keep/Assets/1893c608767.abf219c752f90d4a.png",
+    "Google Keep/Assets/188942401d6.9de545763b29478e.png",
+    "Google Keep/Assets/1862c208de3.a339a4348ba3fdf1.jpg",
+    "Google Keep/Assets/1718601812770.1132251539.png",
+    "Google Keep/Assets",
+    "Google Keep",
+    "Jpeg and other media/Pasted image 20241005001657.png",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
@@ -206,14 +207,8 @@
     "Jpeg and other media/UI-VS-Community.png",
     "Jpeg and other media/Screenshot 2024-07-15 224407.png",
     "Jpeg and other media/Pasted image 20240715223039.png",
-    "Jpeg and other media/Pasted image 20240715120756.png",
-    "Jpeg and other media/Pasted image 20240715120302.png",
-    "Jpeg and other media/Pasted image 20240715120114.png",
-    "Jpeg and other media/Pasted image 20240710111032.png",
     "Jpeg and other media",
     "Done",
-    "Containers/Container System Documentation & Schematics",
-    "Containers/Container Elements",
-    "Containers"
+    "Containers/Container System Documentation & Schematics"
   ]
 }

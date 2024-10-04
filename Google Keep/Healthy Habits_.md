@@ -1,0 +1,12 @@
+---
+aliases:
+  - "Healthy Habits "
+tags:
+  - Keep/Label/HEALTH
+---
+
+BREATHING EXERCISES —
+
+• diaphragmatic breathing — drawing the air into your belly instead of your upper chest. Place one hand over your heart and the other over your abdomen while inhaling. When your lower hand rises during inhalation and your upper hand does not, you know you’re bringing the air fully into your diaphragm.
+
+• Next, breathing only through your nose, inhale for a count of four… hold for a count of four… exhale for a count of four… and hold again for a count of four. Repeat this sequence for anywhere from two to 10 minutes.

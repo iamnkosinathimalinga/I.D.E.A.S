@@ -1,0 +1,6 @@
+---
+tags:
+  - Keep/Label/WEALTH
+---
+
+I'M GOOD AT BRANDING, & MAKING THINGS MORE APPEALING. 
