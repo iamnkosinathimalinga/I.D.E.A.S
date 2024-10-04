@@ -4,25 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07668b34c6522b1c",
+        "id": "4c02e20317fda1b1",
         "type": "tabs",
         "children": [
           {
-            "id": "73284837fa39b0bd",
+            "id": "032fd200c1c7a2ea",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "1 - Rough Notes/46-Sat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Board.md",
+                "file": "1 - Rough Notes/46-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Board.md",
+                "file": "1 - Rough Notes/46-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Board.md"
+                "file": "1 - Rough Notes/46-Sat.md"
               }
             }
           },
@@ -168,8 +162,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73284837fa39b0bd",
+  "active": "032fd200c1c7a2ea",
   "lastOpenFiles": [
+    "1 - Rough Notes/46-Sat.md",
     "To-Do/PDF Downloads.md",
     "Obsidian Board.md",
     "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
@@ -198,7 +193,6 @@
     "2 - Source Material/Google Keep/Doxuments To Print.md",
     "2 - Source Material/Google Keep/Download_.md",
     "1 - Rough Notes/chapters for my book_.md",
-    "6 - Full IDEAS/The formula is.md",
     "2 - Source Material/Google Keep/Assets/1893c608767.abf219c752f90d4a.png",
     "2 - Source Material/Google Keep/Assets/188942401d6.9de545763b29478e.png",
     "2 - Source Material/Google Keep/Assets",
