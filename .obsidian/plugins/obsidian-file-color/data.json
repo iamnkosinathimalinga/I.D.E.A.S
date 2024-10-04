@@ -1,6 +1,17 @@
 {
-  "cascadeColors": false,
-  "colorBackground": false,
-  "palette": [],
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "k0SiiD16UEO84L0pzAR_A",
+      "name": "Overdue",
+      "value": "#ff0000"
+    },
+    {
+      "id": "vOa8qBw659DmxU_ANANdZ",
+      "name": "Done",
+      "value": "#66ff00"
+    }
+  ],
   "fileColors": []
 }

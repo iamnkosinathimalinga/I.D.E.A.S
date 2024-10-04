@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b22ff68e6cd409cf",
+        "id": "8773aa8202ba5fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d0f185ce39ab44",
+            "id": "5e3fe57934037651",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keys/KeyMap 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keys/KeyMap 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keys/KeyMap 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Keys/KeyMap 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,39 +153,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0335491a313fc9fc",
+  "active": "5e3fe57934037651",
   "lastOpenFiles": [
-    "Obsidian Board.md",
-    "2 - Source Material/Express Piece - 1st Draft.md",
-    "Miscellaneous/saonhtueh.md",
-    "Miscellaneous/sahuetns.md",
-    "1 - Rough Notes/2024-09-27.md",
-    "1 - Rough Notes/2024-09-26.md",
-    "Keys/KeyMap 1.md",
-    "2 - Source Material/Tools of Titans - T. Ferris (2).md",
-    "2 - Source Material/Johnathan Franzen - Farther Away (2).md",
-    "2 - Source Material/Programming/Work/SQL - HeadFirst Report (2).md",
-    "2 - Source Material/Programming/Work/EFCore notes with Trevoir Williams (2).md",
-    "2 - Source Material/Programming/Work/CSharp - Target (2).md",
-    "2 - Source Material/Philosophy/The Stoics (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 4 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 3 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update 2 (2).md",
-    "2 - Source Material/Daily Progress/Progress Update (2).md",
-    "1 - Rough Notes/My Quotes/Random Quotes (2).md",
-    "1 - Rough Notes/My Quotes/Daily Quota (2).md",
-    "1 - Rough Notes/Psychoanalytical Writing/Y. Van Loggenberg (2).md",
-    "1 - Rough Notes/Health/Breathing Exercises (2).md",
-    "1 - Rough Notes/Nala/Out of Context Conversations (2).md",
-    "1 - Rough Notes/Nala/About (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Quotes From my journals (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry On AMI (2).md",
-    "1 - Rough Notes/Dream Journal Entries/Dream Journal 9 (2).md",
+    "To-Do/People To Look Up/Macroeconomical & Nature Theory Authors.md",
+    "To-Do/People To Look Up/Authors, Philanthropists, Psychologists.md",
+    "To-Do/Work/To-Do.md",
+    "To-Do/Work/Learning SQL.md",
+    "To-Do/Monthly Budget.md",
+    "To-Do/PDF Downloads.md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
-    "Miscellaneous",
+    "Obsidian Board.md",
+    "Keys/KeyMap 1.md",
+    "Keys/STICKY NOTES KEY.md",
+    "Keys/Notes System.md",
+    "Keys/KeyMapper.md",
+    "Keys/KeyMap.md",
+    "Keys/KeyMap-MEL0DY.md",
+    "Keys/Cue Card Key Mapper.md",
     "Keys",
+    "Jpeg and other media/taskTemplater.js",
+    "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
     "Jpeg and other media/UI-VS-Community.png",
     "Jpeg and other media/Screenshot 2024-07-15 224407.png",
     "Jpeg and other media/Pasted image 20240715223039.png",
@@ -202,13 +182,22 @@
     "Jpeg and other media/Pasted image 20240715120302.png",
     "Jpeg and other media/Pasted image 20240715120114.png",
     "Jpeg and other media/Pasted image 20240710111032.png",
-    "Jpeg and other media/Net-Icons.pdf",
-    "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
+    "Jpeg and other media",
+    "Done/Learning - Syntax Related.md",
+    "Done/Dell AC Adapter Issue.md",
+    "Done/Block-11-Assignment.md",
+    "Done",
+    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget (2).md",
+    "Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
+    "Containers/Container System Documentation & Schematics/Documentation.md",
+    "Containers/Container System Documentation & Schematics/Container System Schematic.md",
+    "Containers/Container Elements/{{ContainerElementType}}.md",
+    "Containers/Container Elements/_Work.md",
+    "Containers/Container Elements/_To-Do.md",
+    "Containers/Container Elements/_Task.md",
+    "Containers/Container Elements/_Research.md",
     "Containers/Container System Documentation & Schematics",
     "Containers/Container Elements",
-    "5 - Template/Templates For Containers",
-    "I.D.E.A.S/7 - Learning/Work/Code Snippets",
-    "I.D.E.A.S/Jpeg and other media/UI-VS-Community.png",
-    "I.D.E.A.S/Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg"
+    "Containers"
   ]
 }
