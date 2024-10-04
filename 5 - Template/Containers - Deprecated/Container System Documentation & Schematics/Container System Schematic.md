@@ -7,7 +7,7 @@ TAGS:  [[Containers]] | [[Key]] | [[Second Brain]] | [[Helper Methods]]
 
 ## CONTAINERS
 
-[[Fire Fox Container Schematics]] < Fire Fox containers (currently) use "<>" to define a container's element > 
+[[5 - Template/Containers - Deprecated/Container System Documentation & Schematics/Fire Fox Container Schematics]] < Fire Fox containers (currently) use "<>" to define a container's element > 
 
 ```
 

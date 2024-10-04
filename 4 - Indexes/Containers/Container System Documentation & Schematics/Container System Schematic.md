@@ -7,7 +7,7 @@ TAGS:  [[Containers]] | [[Key]] | [[Second Brain]] | [[Helper Methods]]
 
 ## CONTAINERS
 
-[[Fire Fox Container Schematics]] < Fire Fox containers (currently) use "<>" to define a container's element > 
+[[4 - Indexes/Containers/Container System Documentation & Schematics/Fire Fox Container Schematics]] < Fire Fox containers (currently) use "<>" to define a container's element > 
 
 ```
 
@@ -71,4 +71,4 @@ Task/Book
 
 {{DOCUMENTATION}}
 
-[[Containers/Container System Documentation & Schematics/Documentation|Documentation]]
+[[4 - Indexes/Containers/Container System Documentation & Schematics/Documentation|Documentation]]

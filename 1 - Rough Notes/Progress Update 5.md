@@ -13,7 +13,7 @@ Had an amazing conversation with my mom about [[Self-Awareness]] and personal de
 ### Task Progress
 
 I completed some nominal tasks today, it's just this and what I mentioned earlier that still needs doing and also I should start tracking how long it takes me to complete a task based on what kind of task it is.
-		On that note I will now implement a new [[Container System Schematic]] that will be implemented throughout my files (local and Cloud) My browsers, my to-do lists and anything else I use to group a lot of items of the same type or nature. 
+		On that note I will now implement a new [[4 - Indexes/Containers/Container System Documentation & Schematics/Container System Schematic]] that will be implemented throughout my files (local and Cloud) My browsers, my to-do lists and anything else I use to group a lot of items of the same type or nature. 
 			This will be a big task so I will start by changing and implementing my local and Cloud files first. 
 				Then I will implement this on my browsers.
 					Then I will implement this on my Z.K (Including all files inside of folders, and add tags for each container element)

@@ -2,7 +2,7 @@
 DATE: 2024-08-05
 TIME: 02:19
 STATE: #AddOn #
-TAGS:  [[Articles]] [[Code]] [[C]] | Reference => [[Block-11-Assignment]] | [[Code]] | [[_Excerpt]] 
+TAGS:  [[Articles]] [[Code]] [[C]] | Reference => [[Block-11-Assignment]] | [[Code]] | [[4 - Indexes/Containers/Container Elements/_Excerpt]] 
 
 In my previous article I discuss about _[create CRUD operation using Scaffolding with ASP.NET MVC 5](https://www.techstrikers.com/Articles/crud-operation-using-scaffold-template-with-entity-framework5.php) and [database first approach using ASP.NET MVC 5 and Entity Framework 6](https://www.techstrikers.com/Articles/database-first-approach-in-entity-framework6-with-asp.net-mvc5.php) and [model first approach using ASP.NET MVC 5 and Entity Framework 6](https://www.techstrikers.com/Articles/model-first-approach-in-entity-framework6-with-asp.net-mvc5.php)_
 
