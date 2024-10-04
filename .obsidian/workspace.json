@@ -11,8 +11,13 @@
             "id": "5e3fe57934037651",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Keys/Cue Card Key Mapper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Keys/Cue Card Key Mapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Keys/Cue Card Key Mapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Keys/Cue Card Key Mapper.md"
+              }
             }
           },
           {
@@ -134,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,22 +164,22 @@
   },
   "active": "5e3fe57934037651",
   "lastOpenFiles": [
-    "To-Do/People To Look Up/Macroeconomical & Nature Theory Authors.md",
+    "Keys/KeyMapper.md",
+    "Keys/KeyMap-MEL0DY.md",
+    "Keys/KeyMap 1.md",
+    "Keys/KeyMap.md",
     "To-Do/People To Look Up/Authors, Philanthropists, Psychologists.md",
     "To-Do/Work/To-Do.md",
     "To-Do/Work/Learning SQL.md",
-    "To-Do/Monthly Budget.md",
     "To-Do/PDF Downloads.md",
+    "Obsidian Board.md",
+    "To-Do/People To Look Up/Macroeconomical & Nature Theory Authors.md",
+    "Done/Monthly Budget.md",
     "To-Do/People To Look Up",
     "To-Do/Work",
     "To-Do",
-    "Obsidian Board.md",
-    "Keys/KeyMap 1.md",
     "Keys/STICKY NOTES KEY.md",
     "Keys/Notes System.md",
-    "Keys/KeyMapper.md",
-    "Keys/KeyMap.md",
-    "Keys/KeyMap-MEL0DY.md",
     "Keys/Cue Card Key Mapper.md",
     "Keys",
     "Jpeg and other media/taskTemplater.js",
