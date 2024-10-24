@@ -18,7 +18,7 @@ Has black hair, 
 
 Wears size 5 and a half or 6 Shoes. (UK)
 
-Wears a size 32 on her waist,
+Wears a size 30 on her waist,
 
 Wears a small, XS and medium on her tops.
 
@@ -68,7 +68,7 @@ Hates the idea of renting.
 - Mentioned a mental shift.
     
 
-- Thought of going to live with Grandfather in P.E
+- Thought of going to live in P.E
     
 - Worries about her father being clingy
     
@@ -83,12 +83,12 @@ Hates the idea of renting.
 - Mentioned putting herself out there, loving her body, herself, making friends, and exploring other things that young Bongi was afraid to do.
     
 
-- -Mentioned some of the crazy things she wants to do/has done (Entered a pageant competition, chickened out half way, paid a lot of money to enter it, secondly, she made herself “pee”)
+- -Mentioned some of the crazy things she wants to do/has done (Entered a pageant competition, chickened out half way, paid a lot of money to enter it, secondly)
     
 - Also felt like it was a breakthrough for her to tell me all these things because of her “childhood-trauma”
     
 - Mentioned not having a good relationship with her younger self. (Wanted to live as her younger self to rectify what happened to herself – Is letting go of her childhood & transitioning into adulthood)
     
-- Mentioned the incident that happened when she was a kid with her mother and haw now, she has gotten over it, and takes it as a pleasurable moment rather than a traumatic one, and how that ties back to everything.
+- Mentioned the incident that happened when she was a kid with her mother and how now, she has gotten over it, and takes it as a pleasurable moment rather than a traumatic one, and how that ties back to everything.
     
 - Feel/Believes that I am a paradoxical person, in the sense that, she doesn’t think I am ordered in my thinking.
