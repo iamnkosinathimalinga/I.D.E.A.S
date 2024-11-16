@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/11-Sat.md",
+                "file": "1 - Rough Notes/2024-08-06 (2).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-Sat"
+              "title": "2024-08-06 (2)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393.5
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/11-Sat.md"
+                "file": "1 - Rough Notes/2024-08-06 (2).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11-Sat"
+              "title": "Outline of 2024-08-06 (2)"
             }
           },
           {
@@ -180,10 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "032fd200c1c7a2ea",
+  "active": "0335491a313fc9fc",
   "lastOpenFiles": [
-    "1 - Rough Notes/11-Tue.md",
     "1 - Rough Notes/11-Sat.md",
+    "1 - Rough Notes/Art/Art I Like (2).md",
+    "1 - Rough Notes/About/ABOUT ME, STUFF I NOTE (2).md",
+    "3 - Tags/Articles (2).md",
+    "3 - Tags/Code (2).md",
+    "3 - Tags/Deprecated (2).md",
+    "1 - Rough Notes/11-Tue.md",
     "1 - Rough Notes/11-Mon.md",
     "1 - Rough Notes/10-Thu.md",
     "1 - Rough Notes/10-Mon.md",
@@ -203,11 +208,6 @@
     "1 - Rough Notes/Music Lyrics/This is it.md",
     "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
     "1 - Rough Notes/Books - Mine.md",
-    "1 - Rough Notes/Anonymous Memory Intelligence.md",
-    "1 - Rough Notes/10-Sat.md",
-    "1 - Rough Notes/Art In Reality, Some Random Ideas (2).md",
-    "1 - Rough Notes/Boomer Ideas (2).md",
-    "1 - Rough Notes/Illusion - The False Ego (2).md",
     "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
     "2 - Source Material/Google Keep/Assets/1862c208de3.a339a4348ba3fdf1.jpg",
     "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png",

@@ -1,6 +1,6 @@
 DATE: 2024-11-16
 TIME: 20:28
-STATE:
-TAGS: 
+STATE: #baby 
+TAGS:  [[]]
 
 # NOTE
