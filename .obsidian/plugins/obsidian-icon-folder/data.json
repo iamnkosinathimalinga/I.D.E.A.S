@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "❗",
+      "🗝",
+      "LiClipboardCheck",
+      "LiCircleOff"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {

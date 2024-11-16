@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8773aa8202ba5fc3",
+        "id": "4c02e20317fda1b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb7a20a820321d3",
+            "id": "032fd200c1c7a2ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "5 - Template/Containers/_BookContainer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3fe57934037651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "file": ".obsidian/plugins/obsidian-file-color/data.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#baby",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,14 +67,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 393.5
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -100,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
+                "file": "1 - Rough Notes/11-Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11-Mon"
             }
           },
           {
@@ -117,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/2024-09-25.md",
+                "file": "1 - Rough Notes/11-Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11-Mon"
             }
           },
           {
@@ -131,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,9 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Rough Notes/2024-09-25.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -149,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,51 +176,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e3fe57934037651",
+  "active": "032fd200c1c7a2ea",
   "lastOpenFiles": [
-    "5 - Template/Containers/_BookContainer.md",
-    "1 - Rough Notes/2024-09-24.md",
-    "1 - Rough Notes/2024-09-25.md",
     "7 - Learning/{{_TaskContainer}}.md",
-    "1 - Rough Notes/2024-08-17.md",
-    "ntohu.md",
-    "{{nameOfSession}}.md",
-    "timeKeeperObject.md",
-    "Untitled.md",
-    "5 - Template/Focus Session.md",
-    "5 - Template/duration.md",
+    "5 - Template/Containers/Container System Documentation & Schematics/Documentation.md",
+    "5 - Template/Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
+    "5 - Template/Containers/Container Elements/_Work.md",
+    "5 - Template/Containers/Container System Documentation & Schematics/Container System Schematic.md",
+    "5 - Template/Containers/Container Elements/{{ContainerElementType}}.md",
     "5 - Template/Containers/Container Elements/_To-Do.md",
-    "1 - Rough Notes/2024-08-16.md",
-    "1 - Rough Notes/2024-08-06.md",
-    "5 - Template/Containers/_PersonalContainer.md",
-    "Miscellaneous/saonhtueh.md",
-    "5 - Template/Templates For Containers/Task Container Temp.md",
-    "Miscellaneous/sahuetns.md",
-    "Miscellaneous/Temp some rando.md",
-    "5 - Template/Templates For Containers",
+    "5 - Template/Containers/Container Elements/_Task.md",
+    "5 - Template/Containers/Container Elements/_Research.md",
+    "5 - Template/Containers/Container Elements/_Reflect.md",
+    "5 - Template/Containers/Container Elements/_Progress.md",
+    "5 - Template/Containers/Container Elements/_Notes.md",
+    "5 - Template/Containers/Container Elements/_Misc.md",
+    "5 - Template/Containers/Container Elements/_Book.md",
+    "5 - Template/Containers/Container Elements/_Code.md",
+    "5 - Template/Containers/Container Elements/_Assignment.md",
+    "5 - Template/Containers/Container Elements/_Excerpt.md",
     "5 - Template/Containers/{{_WorkContainer}}.md",
-    "5 - Template/BOOK REPORT TEMP.md",
     "5 - Template/Containers/{{ContainerType}}.md",
     "5 - Template/Containers/_RefactorContainer.md",
+    "5 - Template/Containers/_PersonalContainer.md",
     "5 - Template/Containers/_LearnContainer.md",
-    "Doing/Dell AC Adapter Issue.md",
-    "7 - Learning/Work/ASP.NET Core.md",
+    "5 - Template/Containers/_BookContainer.md",
+    "5 - Template/Containers/Container System Documentation & Schematics",
     "5 - Template/Containers/Container Elements",
     "5 - Template/Containers",
-    "5 - Template/Containers/Container System Documentation & Schematics",
-    "8 - Containers/Container System/Container System",
-    "Jpeg and other media/Net-Icons.pdf",
-    "Jpeg and other media/UI-VS-Community.png",
-    "Done",
-    "7 - Learning/Work/Code Snippets",
-    "7 - Learning/Work",
-    "7 - Learning",
-    "Jpeg and other media/Screenshot 2024-07-15 224407.png",
-    "Jpeg and other media/Pasted image 20240715223039.png",
-    "Jpeg and other media/Pasted image 20240715120114.png",
-    "Jpeg and other media/Pasted image 20240715120756.png",
-    "Jpeg and other media/Pasted image 20240715120302.png",
+    "3 - Tags/Tags.md",
+    "1 - Rough Notes/2024-09-25.md",
+    "1 - Rough Notes/2024-09-24.md",
+    "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
+    "2 - Source Material/Google Keep/Assets/1862c208de3.a339a4348ba3fdf1.jpg",
+    "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png",
+    "2 - Source Material/Google Keep/Assets/1893c608767.abf219c752f90d4a.png",
+    "2 - Source Material/Google Keep/Assets/188942401d6.9de545763b29478e.png",
+    "2 - Source Material/Google Keep/Assets",
+    "2 - Source Material/Google Keep",
+    "Jpeg and other media/Pasted image 20241005001657.png",
+    "To-Do/People To Look Up",
+    "To-Do/Work",
+    "To-Do",
+    "Keys",
+    "Jpeg and other media/taskTemplater.js",
     "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
-    "Jpeg and other media/Pasted image 20240710111032.png"
+    "Jpeg and other media/UI-VS-Community.png",
+    "Jpeg and other media/Screenshot 2024-07-15 224407.png",
+    "Jpeg and other media/Pasted image 20240715223039.png"
   ]
 }
