@@ -1,0 +1,3 @@
+- The first step in design thinking is empathy, get into the shoes of your consumer, develop a better understanding about your consumer.
+	- _What can you tell us about what you do?_
+	- _Could you d_
