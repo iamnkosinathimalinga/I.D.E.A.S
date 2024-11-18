@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3018253ae6d8153",
+            "id": "a5e2fed2e2097338",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "a5e2fed2e2097338",
+            "id": "4e5d4cb26cd4cbfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,9 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5e2fed2e2097338",
+  "active": "4e5d4cb26cd4cbfd",
   "lastOpenFiles": [
     "Design Thinking.md",
+    "Jpeg and other media/Pasted image 20241118143322.png",
     "Questions For Franniez.md",
     "1 - Rough Notes/11-Tue.md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry 10.md",
@@ -223,7 +224,6 @@
     "1 - Rough Notes/2024-10-05.md",
     "1 - Rough Notes/chapters for my book_.md",
     "1 - Rough Notes/MDR Theological Basic_.md",
-    "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
     "To-Do/Work",
     "To-Do/People To Look Up",
     "To-Do",
@@ -242,7 +242,6 @@
     "5 - Template/Templater - Containers",
     "5 - Template/JavaScript/taskTemplater.js",
     "5 - Template/JavaScript",
-    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics",
-    "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png"
+    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics"
   ]
 }

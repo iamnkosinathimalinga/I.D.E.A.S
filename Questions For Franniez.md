@@ -25,3 +25,7 @@ Step 2.
 		- `**Clustering and Themes:** There are a lot of different ways to go about the Define phase, but it’s safe to say you’ll need a wall of sticky notes; these will be filled with the quotes, observations, and ideas you heard throughout your research. Group and cluster ideas together until you find the prevailing or most prominent themes.`
 		- `**Problem Statement:** Take time to properly articulate the [problem statement.](https://voltagecontrol.com/downloads/problem-statement-mural/) Answer the following questions: 1) What is the problem? 2) Who has the problem? 3) Where is the problem? 4) Why does it matter`
 	-IN THIS STEP IT'S IMPORTANT TO KNOW THAT WE CAN'T SOLVE ALL OF THE CONSUMERS PROBLEMS BUT OUR GOAL SHOULD BE TO IDENTIFY THEIR MOST PAINFUL ISSUE AND FROM THAT, WHAT WE SHOULD FOCUS ON MOVING FORWARD (IN OTHER WORDS ) 
+
+Step 3.
+
+- 
