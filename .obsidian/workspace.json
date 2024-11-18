@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c02e20317fda1b1",
+        "id": "6f9416bf964cddfe",
         "type": "tabs",
         "children": [
           {
-            "id": "032fd200c1c7a2ea",
+            "id": "f3018253ae6d8153",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/2024-08-06 (2).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-08-06 (2)"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -139,11 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Rough Notes/2024-08-06 (2).md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-08-06 (2)"
+              "title": "Outline"
             }
           },
           {
@@ -180,53 +174,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0335491a313fc9fc",
+  "active": "f3018253ae6d8153",
   "lastOpenFiles": [
-    "1 - Rough Notes/11-Sat.md",
-    "1 - Rough Notes/Art/Art I Like (2).md",
-    "1 - Rough Notes/About/ABOUT ME, STUFF I NOTE (2).md",
-    "3 - Tags/Articles (2).md",
-    "3 - Tags/Code (2).md",
-    "3 - Tags/Deprecated (2).md",
-    "1 - Rough Notes/11-Tue.md",
-    "1 - Rough Notes/11-Mon.md",
-    "1 - Rough Notes/10-Thu.md",
-    "1 - Rough Notes/10-Mon.md",
-    "Obsidian Board.md",
-    "6 - Full IDEAS/Papers/The Objective Subjugation THESIS.md",
-    "6 - Full IDEAS/Papers/Re-Evolution THESIS.md",
-    "6 - Full IDEAS/Papers/MDR - THESIS (2).md",
-    "2 - Source Material/Work Ethic_Business Morale.md",
-    "2 - Source Material/Johnathan Franzen - Farther Away.md",
-    "2 - Source Material/Psychology/Treatments (2).md",
-    "2 - Source Material/Psychology/Treatments.md",
-    "2 - Source Material/Psychology/The Psychoanalytic Model.md",
-    "1 - Rough Notes/About/ABOUT ME, STUFF I NOTE.md",
-    "1 - Rough Notes/Music Lyrics/Cloud 9 with You (2).md",
-    "1 - Rough Notes/Music Lyrics/Destination (Unknown) (2).md",
-    "1 - Rough Notes/Music Lyrics/Óooze (Prod. illInstrumentals & Cascade) (2).md",
-    "1 - Rough Notes/Music Lyrics/This is it.md",
-    "1 - Rough Notes/Neuro Psycho-Retentitive Awareness.md",
-    "1 - Rough Notes/Books - Mine.md",
-    "2 - Source Material/Google Keep/Assets/1718601812770.1132251539.png",
-    "2 - Source Material/Google Keep/Assets/1862c208de3.a339a4348ba3fdf1.jpg",
-    "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png",
-    "2 - Source Material/Google Keep/Assets/1893c608767.abf219c752f90d4a.png",
-    "2 - Source Material/Google Keep/Assets/188942401d6.9de545763b29478e.png",
-    "2 - Source Material/Google Keep/Assets",
-    "2 - Source Material/Google Keep",
-    "Jpeg and other media/Pasted image 20241005001657.png",
-    "To-Do/People To Look Up",
+    "To-Do/Work/To-Do.md",
+    "To-Do/People To Look Up/Macroeconomical & Nature Theory Authors.md",
+    "To-Do/Work/Learning SQL.md",
+    "To-Do/People To Look Up/Authors, Philanthropists, Psychologists.md",
     "To-Do/Work",
+    "To-Do/People To Look Up",
+    "To-Do/PDF Downloads.md",
     "To-Do",
+    "Obsidian Board.md",
+    "Keys/STICKY NOTES KEY.md",
+    "Keys/Notes System.md",
+    "Keys/KeyMapper.md",
+    "Keys/KeyMap-MEL0DY.md",
+    "Keys/KeyMap.md",
+    "Keys/KeyMap 1.md",
+    "Keys/Cue Card Key Mapper.md",
     "Keys",
     "Jpeg and other media/taskTemplater.js",
     "Jpeg and other media/httpatomoreillycomsourceoreillyimages1373299.png.jpg",
     "Jpeg and other media/UI-VS-Community.png",
     "Jpeg and other media/Screenshot 2024-07-15 224407.png",
+    "Jpeg and other media/Pasted image 20241005001657.png",
     "Jpeg and other media/Pasted image 20240715223039.png",
-    "Jpeg and other media",
+    "Jpeg and other media/Pasted image 20240715120756.png",
+    "Jpeg and other media/Pasted image 20240715120302.png",
+    "Jpeg and other media/Pasted image 20240715120114.png",
+    "Jpeg and other media/Pasted image 20240710111032.png",
+    "Done/Monthly Budget.md",
+    "Done/Learning - Syntax Related.md",
+    "Done/Dell AC Adapter Issue.md",
+    "Done/Block-11-Assignment.md",
     "Done",
-    "4 - Indexes/Containers/Container System Documentation & Schematics"
+    "Doing/Fiscal Managing Task No.1 (I.P)/Monthly Budget (2).md",
+    "6 - Full IDEAS/Works/NALA - DRAFT 2.md",
+    "6 - Full IDEAS/The formula is.md",
+    "6 - Full IDEAS/Nala-MEL0DY.md",
+    "5 - Template/Templater - Containers/_task.obj.md",
+    "5 - Template/Templater - Containers/_task.obj-MEL0DY.md",
+    "5 - Template/Templater - Containers",
+    "5 - Template/JavaScript/myfunc.js.md",
+    "5 - Template/JavaScript/taskTemplater.js",
+    "5 - Template/JavaScript/taskTemplate.js.md",
+    "5 - Template/JavaScript",
+    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
+    "5 - Template/Containers - Deprecated/Container System Documentation & Schematics",
+    "2 - Source Material/Google Keep/Assets/1893c64c499.82b6b35d01547736.png"
   ]
 }
