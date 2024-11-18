@@ -14,4 +14,12 @@ Step 1. ^ddf7cc
 
 Step 2. 
 
-- Now that we have some information from [[#^ddf7cc]] (Step 1) We use this data to compile a $*A human-centric problem statement that should be captured from the perspective of the consumer.*$  
+- Now that we have some information from [[#^ddf7cc]] (Step 1) We use this data to compile a ==*A human-centric problem statement that should be captured from the perspective of the consumer.*==  
+		- _==For example, instead of setting a goal to increase signups by 5%, a human-centered target would be to help busy moms provide healthy food for their families.==_
+
+	- IN A NUTSHELL, BASED ON THE FRUSTRATIONS AND THINGS THE CONSUMER IS NOT HAPPY WITH, WE COME UP WITH QUESTIONS FOR HOW WE MIGHT SOLVE THEM.
+	- ####### `Typical Activities that can help formulate our solutions:` 
+	
+		- `**Clustering and Themes:** There are a lot of different ways to go about the Define phase, but it’s safe to say you’ll need a wall of sticky notes; these will be filled with the quotes, observations, and ideas you heard throughout your research. Group and cluster ideas together until you find the prevailing or most prominent themes.`
+		- `**Problem Statement:** Take time to properly articulate the [problem statement.](https://voltagecontrol.com/downloads/problem-statement-mural/) Answer the following questions: 1) What is the problem? 2) Who has the problem? 3) Where is the problem? 4) Why does it matter`
+	-IN THIS STEP IT'S IMPORTANT TO KNOW THAT WE CAN'T SOLVE ALL OF THE CONSUMERS PROBLEMS BUT OUR GOAL SHOULD BE TO IDENTIFY THEIR MOST PAINFUL ISSUE AND FROM THAT, WHAT WE SHOULD FOCUS ON MOVING FORWARD (IN OTHER WORDS ) 
