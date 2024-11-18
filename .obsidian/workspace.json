@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Thinking.md",
+                "file": "Questions For Franniez.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Thinking"
+              "title": "Questions For Franniez"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "2024-11-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3018253ae6d8153",
+  "active": "65816d8ce85bf865",
   "lastOpenFiles": [
-    "Questions For Franniez.md",
-    "1 - Rough Notes/2024-11-18.md",
     "Design Thinking.md",
+    "1 - Rough Notes/2024-11-18.md",
+    "Questions For Franniez.md",
     "Jpeg and other media/Pasted image 20241118135543.png",
     "Jpeg and other media/Pasted image 20241118134822.png",
     "Jpeg and other media",
