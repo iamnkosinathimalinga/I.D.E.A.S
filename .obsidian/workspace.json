@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/11-Thu.md",
+                "file": "1 - Rough Notes/Linux Commands & Shell Scripting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-Thu"
+              "title": "Linux Commands & Shell Scripting"
             }
           }
         ],
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 355.5
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -186,10 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/11-Thu.md"
+                "file": "1 - Rough Notes/Linux Commands & Shell Scripting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11-Thu"
+              "title": "Outline of Linux Commands & Shell Scripting"
             }
           },
           {
@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,11 +228,11 @@
   },
   "active": "01dfdc0638a7bd1d",
   "lastOpenFiles": [
-    "1 - Rough Notes/11-Thu.md",
-    "1 - Rough Notes/11-Wed.md",
     "Design Thinking.md",
-    "Jpeg and other media/Pasted image 20241118143322.png",
     "Questions For Franniez.md",
+    "1 - Rough Notes/11-Wed.md",
+    "1 - Rough Notes/Linux Commands & Shell Scripting.md",
+    "Jpeg and other media/Pasted image 20241118143322.png",
     "1 - Rough Notes/11-Tue.md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry 10.md",
     "1 - Rough Notes/Dream Journal Entries/Dream Journal Entry 11.md",
