@@ -1,0 +1,14 @@
+{
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "move-tags": true,
+  "move-dates": true,
+  "date-format": "DD-MM-YY",
+  "time-format": "HH:mm",
+  "date-display-format": "DD-MM-YY",
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "archive-with-date": true,
+  "append-archive-date": true,
+  "date-picker-week-start": 0
+}
