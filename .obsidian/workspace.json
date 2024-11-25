@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions For Franniez.md",
+                "file": "1 - Rough Notes/11-Mon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions For Franniez"
+              "title": "11-Mon"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01dfdc0638a7bd1d",
+  "active": "4e5d4cb26cd4cbfd",
   "lastOpenFiles": [
+    "Questions For Franniez.md",
+    "1 - Rough Notes/11-Mon.md",
     "1 - Rough Notes/11-Fri.md",
     "1 - Rough Notes/Linux Commands & Shell Scripting.md",
     "Design Thinking.md",
-    "Questions For Franniez.md",
     "1 - Rough Notes/11-Wed.md",
     "Jpeg and other media/Pasted image 20241118143322.png",
     "1 - Rough Notes/11-Tue.md",
@@ -254,7 +255,6 @@
     "1 - Rough Notes/2024-08-06 (2).md",
     "1 - Rough Notes/2024-09-26.md",
     "1 - Rough Notes/2024-09-27.md",
-    "1 - Rough Notes/2024-10-05.md",
     "To-Do/Work",
     "To-Do/People To Look Up",
     "To-Do",
