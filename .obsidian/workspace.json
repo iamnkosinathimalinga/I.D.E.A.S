@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions For Franniez.md",
+                "file": "1 - Rough Notes/2024-11-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions For Franniez"
+              "title": "2024-11-25"
             }
           },
           {
@@ -198,9 +198,10 @@
   },
   "active": "65816d8ce85bf865",
   "lastOpenFiles": [
+    "Questions For Franniez.md",
+    "1 - Rough Notes/2024-11-25.md",
     "Design Thinking.md",
     "1 - Rough Notes/2024-11-18.md",
-    "Questions For Franniez.md",
     "Jpeg and other media/Pasted image 20241118135543.png",
     "Jpeg and other media/Pasted image 20241118134822.png",
     "Jpeg and other media",
@@ -226,7 +227,6 @@
     "5 - Template/Containers/_RefactorContainer.md",
     "5 - Template/Containers/_PersonalContainer.md",
     "5 - Template/Containers/_LearnContainer.md",
-    "5 - Template/Containers/_BookContainer.md",
     "5 - Template/Containers/Container System Documentation & Schematics",
     "5 - Template/Containers/Container Elements",
     "5 - Template/Containers",
