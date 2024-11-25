@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Apatheia",
-  "baseFontSize": 16,
+  "cssTheme": "Violet Evening",
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "theme": "obsidian",
-  "accentColor": "#8030ab",
+  "accentColor": "#31b927",
   "interfaceFontFamily": "Bahnschrift",
   "monospaceFontFamily": "Bahnschrift",
   "nativeMenus": true,
