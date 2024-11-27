@@ -26,13 +26,15 @@
             "id": "95afda98e09ce6bd",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "1 - Rough Notes/Meeting with Ivo Verburgh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
+              "icon": "lucide-file",
+              "title": "Meeting with Ivo Verburgh"
             }
           },
           {
@@ -168,9 +170,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "1 - Rough Notes/Meeting with Ivo Verburgh.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Meeting with Ivo Verburgh"
             }
           },
           {
@@ -209,8 +213,9 @@
   },
   "active": "95afda98e09ce6bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1 - Rough Notes/Task - To-Do - KeyMapVSIcons.md",
     "1 - Rough Notes/Meeting with Ivo Verburgh.md",
+    "conflict-files-obsidian-git.md",
     "I.D.E.A.S/1 - Rough Notes/Task - To-Do - KeyMapVSIcons.md",
     "I.D.E.A.S/1 - Rough Notes/Boomer Ideas.md",
     "I.D.E.A.S/1 - Rough Notes/Anonymous Memory Intelligence.md",
@@ -234,7 +239,6 @@
     "I.D.E.A.S/5 - Template/Containers/Container Elements/_Excerpt.md",
     "I.D.E.A.S/5 - Template/Containers/Container Elements/_Misc.md",
     "I.D.E.A.S/5 - Template/Containers/Container Elements/_Assignment.md",
-    "I.D.E.A.S/5 - Template/Containers/Container Elements/_Book.md",
     "I.D.E.A.S/5 - Template/Containers/Container System Documentation & Schematics",
     "I.D.E.A.S/5 - Template/Containers/Container Elements",
     "I.D.E.A.S/5 - Template/Templates For Containers",
