@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/2024-11-25.md",
+                "file": "1 - Rough Notes/2024-11-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-25"
+              "title": "2024-11-27"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "folder structure",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5b7c5fb44443d9e3",
@@ -156,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/2024-11-25.md"
+                "file": "1 - Rough Notes/2024-11-27.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-25"
+              "title": "Outline of 2024-11-27"
             }
           },
           {
@@ -199,6 +198,9 @@
   },
   "active": "65816d8ce85bf865",
   "lastOpenFiles": [
+    "1 - Rough Notes/2024-11-26.md",
+    "1 - Rough Notes/2024-11-27.md",
+    "1 - Rough Notes/2024-11-25.md",
     "I.D.E.A.S/5 - Template/Containers/Container System Documentation & Schematics/Fire Fox Container Schematics.md",
     "I.D.E.A.S/5 - Template/Containers/Container System Documentation & Schematics/Documentation.md",
     "I.D.E.A.S/5 - Template/Containers/Container System Documentation & Schematics/Container System Schematic.md",
@@ -224,10 +226,7 @@
     "I.D.E.A.S/5 - Template/Containers/_LearnContainer.md",
     "I.D.E.A.S/5 - Template/Containers/Container System Documentation & Schematics",
     "I.D.E.A.S/5 - Template/Containers/Container Elements",
-    "I.D.E.A.S/5 - Template/WORK TEMP.md",
-    "I.D.E.A.S/5 - Template/TO-DO TEMP.md",
     "I.D.E.A.S/5 - Template/Templates For Containers",
-    "I.D.E.A.S/5 - Template/QUOTES TEMP.md",
     "I.D.E.A.S/5 - Template/Containers",
     "I.D.E.A.S/5 - Template",
     "I.D.E.A.S/4 - Indexes",
