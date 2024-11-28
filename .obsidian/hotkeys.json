@@ -89,5 +89,14 @@
       ],
       "key": "S"
     }
+  ],
+  "terminal:open-terminal.select.current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

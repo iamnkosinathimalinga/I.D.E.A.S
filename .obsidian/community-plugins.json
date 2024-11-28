@@ -8,5 +8,7 @@
   "templater-obsidian",
   "obsidian-minimal-settings",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "terminal",
+  "gnome-terminal-loader"
 ]
