@@ -32,7 +32,7 @@ The downside of having/working with the I.T GUY:
 How stable is your production or your organization is without relying on any one/single persons. {{time: 21:06 in voice recorder}}
 ###### YOU NEED A TEAM OF SUPERHEROES, NOT A 'BUS FACTOR'
 
-i.e `The Avengers`
+i.e. `The Avengers`
 & similarly you need a team that's good in different areas respectively.
 `Great things in business are never done by on eperson, they're done by a team of people  - Steve Jobs`
 
