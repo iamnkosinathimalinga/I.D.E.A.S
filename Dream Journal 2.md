@@ -1,0 +1,7 @@
+
+# 2024-07-09
+# 20:20 
+
+Tags: [[Dream Journal|Dream Journal]]
+
+drake was sitting with me talking about neighbours and jealous people while abo magubuda nabo sphamandla were there, sphiwe was also there but at like the end, then we wanted to play chess, oh and palesa was also there, this all happened at my grans house, we were outside and she was busy going in and out of the house, she also had on tattoos on both her thighs, the back of her thighs anyway. one of a child and the other was unclear which I then referenced to an earlier tattoo of her youngest brother Bohlale as being weird seeing as he isn't her child, but anyway she ended up leaving, towards maybe going next door, I don't know, I'm speculating because she only had on a skirt and a bra and it seemed like she was going to come back, anyway somehow sphiwe showed up and we went into my room e2 room and I had the playstation there and jnr played some FIFA while me and sphiwe were talking about some stuff I picked up the chess board which seemed like it was his, and gave him back the chess board, oh and there was a missing rook, which he called a castle and I corrected him and a missing knight on e8 which is weird because on the board that's where the rook is supposed to be, but in the dream it seemed like that was actually the right position, anyway that's as much as I remember.
